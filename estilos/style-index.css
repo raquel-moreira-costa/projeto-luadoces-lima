@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1320px;
+    height: 1200px;
+    background-color: cyan;
+    margin: auto;
+}
+
+#conteudo{
+    width: 1000px;
+    height: 1000px;
+    background-color: rosybrown;
+    margin: auto;
+}
