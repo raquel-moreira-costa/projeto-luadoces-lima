@@ -3,15 +3,34 @@
 }
 
 .container{
-    width: 1320px;
+    
+    width: 1400px;
     height: 1200px;
-    background-color: cyan;
-    margin: auto;
+    background-color: skyblue;
+}
+header{
+    width: 100%;
+    height: 30%;
+    color: skyblue;
 }
 
+#prop-img{
+    width: 20px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+    right: 30px;
+}
+
+img[src]{
+    width: 200px;
+    height: 200px;
+}
 #conteudo{
     width: 1000px;
-    height: 1000px;
-    background-color: rosybrown;
-    margin: auto;
+    height: 1100px;
+    background-color: #F2B5D4;
+    position: relative;
 }
+
+
