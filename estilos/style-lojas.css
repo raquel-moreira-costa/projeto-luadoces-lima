@@ -1,0 +1,18 @@
+P{
+    font-family: 'Dancing Script', cursive;
+    line-height: 100px;
+}
+.foto1{
+    
+}
+img{
+   float: left;
+   display: block;
+}
+#Lojas{
+    margin-left: 550px;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 750px;
+}
