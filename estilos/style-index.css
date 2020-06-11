@@ -4,7 +4,7 @@
 }
 
 .container{
-    width: 1300px;
+    width: 1350px;
     height: 1400px;
     margin: 0px;
     display: block;
@@ -12,7 +12,6 @@
     margin-right: auto;
     background-color: #F7D6E0;
     font-family: 'Dancing Script';
-    box-shadow: 0 0 1em #C9E4E1;
 }
 
 header{
