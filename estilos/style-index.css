@@ -18,11 +18,10 @@
     src: local(Sweet Hipster), url(../fonte/Sweet\ Hipster.ttf)
 }
 header{
-    width: 100%;
+    width: 1400px;
     height: 180px;
     position: relative;
     background: url("../imagens/Banner.jpg") center no-repeat;
-    /* background-color: #B2F7EF; */
     color:#F2B5D4;
     
 }
@@ -247,7 +246,6 @@ footer{
     width: 100%;
     height: 180px;
     background: url("../imagens/Banner.jpg") center no-repeat;
-    /* background-color: #B2F7EF; */
     position: relative;
     text-align: center;
 }

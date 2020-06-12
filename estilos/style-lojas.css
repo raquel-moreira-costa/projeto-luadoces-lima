@@ -1,5 +1,96 @@
+/*Coloquei a parte do header e do footer aqui Rô*/ 
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 1400px;
+    height: 1400px;
+    margin: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F7D6E0;
+    font-family: Sweet Hipster;
+}
+
+@font-face {
+    font-family: Sweet Hipster;
+    src: local(Sweet Hipster), url(../fonte/Sweet\ Hipster.ttf)
+}
+
+header{
+    width: 1400px;
+    height: 180px;
+    position: relative;
+    background: url("../imagens/Banner.jpg") center no-repeat;
+    color:#F2B5D4;
+    
+}
+
+#logo{
+    display: block;
+    margin-left: 550px;
+    margin-right: auto;
+    width: 280px;
+    height: 130px;
+}
+
+.link1, .link2, .link3, .link4, .link5
+{
+    text-decoration: none;
+    color:#F2B5D4;
+    text-shadow: -1px 0 #e15199, 0 1px #e15199, 1px 0 #e15199, 0 -1px #e15199;
+}
+
+nav{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+
+li{
+    list-style-type: none;
+    list-style-position: initial;
+    display: inline;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+
+#conteudo{
+    display: block;
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    margin-top: 37px;
+    margin-bottom: 23px;
+    background-color: #EFF7F6;
+    box-shadow: 0 0 1em #E774AD ;
+}
+.ttl-4{
+    color: #e15199;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    display: inline-block;
+    margin: auto;
+    width: 250px;
+}
+
+footer{
+
+    width: 1400px;
+    height: 180px;
+    background: url("../imagens/Banner.jpg") center no-repeat;
+    position: relative;
+    text-align: center;
+}
+
 P{  
-    font-family: 'Dancing Script', cursive;
+    font-family: Sweet Hipster;
     
 }
 header{
@@ -18,7 +109,7 @@ h1{text-align: center;
     margin-top: 50px;
     margin-right: 400px;
     float: right;
-    font-family: 'Dancing Script', cursive;
+    font-family: Sweet Hipster;
     text-align: center;
    
 }

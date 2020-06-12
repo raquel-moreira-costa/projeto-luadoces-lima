@@ -11,14 +11,19 @@
     margin-left: auto;
     margin-right: auto;
     background-color: #F7D6E0;
-    font-family: 'Dancing Script';
+    font-family: Sweet Hipster;
+}
+
+@font-face {
+    font-family: Sweet Hipster;
+    src: local(Sweet Hipster), url(../fonte/Sweet\ Hipster.ttf)
 }
 
 header{
-    width: 100%;
+    width: 1400px;
     height: 180px;
     position: relative;
-    background-color: #B2F7EF;
+    background: url("../imagens/Banner.jpg") center no-repeat;
     color:#F2B5D4;
     
 }
@@ -40,7 +45,7 @@ header{
 
 nav{
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: bolder;
     
 }
@@ -66,7 +71,7 @@ li{
 }
 .ttl-4{
     color: #e15199;
-    font-size: 28px;
+    font-size: 30px;
     text-align: center;
     padding-top: 30px;
     display: inline-block;
@@ -76,9 +81,9 @@ li{
 
 footer{
 
-    width: 100%;
+    width: 1400px;
     height: 180px;
-    background-color: #B2F7EF;
+    background: url("../imagens/Banner.jpg") center no-repeat;
     position: relative;
     text-align: center;
 }
