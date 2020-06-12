@@ -1,18 +1,27 @@
-P{
+P{  
     font-family: 'Dancing Script', cursive;
-    line-height: 100px;
-}
-.foto1{
     
 }
-img{
-   float: left;
-   display: block;
+header{
+    text-align: center;
+}
+h1{text-align: center;
+    margin-top: 0;
 }
 #Lojas{
-    margin-left: 550px;
+    margin-left: 400px;
+    float: left;
     text-align: center;
     align-items: center;
-    width: 400px;
-    height: 750px;
+}
+#Endereços{
+    margin-top: 50px;
+    margin-right: 400px;
+    float: right;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+   
+}
+h3{
+    margin-bottom: 230px;
 }
