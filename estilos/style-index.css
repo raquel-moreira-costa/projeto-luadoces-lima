@@ -23,25 +23,12 @@ header{
     
 }
 
-h1{
-    display: block;
-    width: 120px;
-    height: 120px;
-    position: absolute;
-    font-size: 50px;
-    top: 10%;
-    bottom: 37%;
-    left: 35%;
-    letter-spacing: 3px;
-    text-shadow: -2px 0 #e15199, 0 2px #e15199, 2px 0 #e15199, 0 -2px #e15199;
-}
-
 #logo{
     display: block;
-    margin-left: 600px;
+    margin-left: 550px;
     margin-right: auto;
-    width: 180px;
-    height: 140px;
+    width: 280px;
+    height: 130px;
 }
 
 .link1, .link2, .link3, .link4, .link5
