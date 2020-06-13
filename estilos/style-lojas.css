@@ -69,7 +69,7 @@ li{
     margin-bottom: 23px;
     background-color: #EFF7F6;
     box-shadow: 0 0 1em #E774AD ;
-  
+    font-family: 'Mali', cursive;
 }
 
 
@@ -93,7 +93,7 @@ footer{
 }
 
 P{  
-    font-family: Sweet Hipster;
+   font-family: 'Mali', cursive;
     
 }
 header{
@@ -103,7 +103,7 @@ h1{text-align: left;
     margin-top: 0;
     margin-left: 430px;
     margin-bottom: 50px;
-    font-size: 100px;
+    font-size: 50px;
 
 }
 iframe{
@@ -114,18 +114,18 @@ iframe{
     float: left;
     text-align: center;
     align-items: center;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
   
 }
 #Endereços{
    padding-top: 185px;
-   padding-right: 100px;
-   padding-bottom: 170px;
-    font-family: Sweet Hipster;
+   padding-right: 155px;
+   padding-bottom: 150px;
+    font-family: 'Mali', cursive;
     text-align: center;
     
    
 }
-h3{ padding-bottom: 175px;
-    font-size: 50px;
+h3{ padding-bottom: 250px;
+    font-family: 'Mali', cursive;
 }
