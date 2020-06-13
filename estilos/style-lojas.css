@@ -40,8 +40,8 @@ header{
 .link1, .link2, .link3, .link4, .link5
 {
     text-decoration: none;
-    color:#F2B5D4;
-    text-shadow: -1px 0 #e15199, 0 1px #e15199, 1px 0 #e15199, 0 -1px #e15199;
+    color:#e15199;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
 
 nav{
@@ -69,7 +69,10 @@ li{
     margin-bottom: 23px;
     background-color: #EFF7F6;
     box-shadow: 0 0 1em #E774AD ;
+  
 }
+
+
 .ttl-4{
     color: #e15199;
     font-size: 30px;
@@ -96,23 +99,33 @@ P{
 header{
     text-align: center;
 }
-h1{text-align: center;
+h1{text-align: left;
     margin-top: 0;
+    margin-left: 430px;
+    margin-bottom: 50px;
+    font-size: 100px;
+
+}
+iframe{
+    margin-bottom: 40px;
 }
 #Lojas{
-    margin-left: 400px;
+   
     float: left;
     text-align: center;
     align-items: center;
+    margin-bottom: 150px;
+  
 }
 #Endereços{
-    margin-top: 50px;
-    margin-right: 400px;
-    float: right;
+   padding-top: 185px;
+   padding-right: 100px;
+   padding-bottom: 170px;
     font-family: Sweet Hipster;
     text-align: center;
+    
    
 }
-h3{
-    margin-bottom: 230px;
+h3{ padding-bottom: 175px;
+    font-size: 50px;
 }

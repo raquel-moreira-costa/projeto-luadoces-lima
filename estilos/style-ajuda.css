@@ -39,8 +39,8 @@ header{
 .link1, .link2, .link3, .link4, .link5
 {
     text-decoration: none;
-    color:#F2B5D4;
-    text-shadow: -1px 0 #e15199, 0 1px #e15199, 1px 0 #e15199, 0 -1px #e15199;
+    color:#e15199;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
 
 nav{
