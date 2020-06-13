@@ -98,17 +98,12 @@ footer{
 }
 
 #img-produto{
-    width: 250px;
-    height: 250px;
+    width: 100px;
+    height: 100px;
 }
 
 #preco{
     font-size: 30px;
-}
-
-#img-produto-l{
-    width: 100px;
-    height: 100px;
 }
 
 #prod-1{
