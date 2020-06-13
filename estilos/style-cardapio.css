@@ -108,4 +108,6 @@ footer{
 #prod1{
     float: left;
     background-color: #B2F7EF;
+    width: 400px;
+    height: 100px;
 }
