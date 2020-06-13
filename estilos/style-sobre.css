@@ -39,8 +39,8 @@ header{
 .link1, .link2, .link3, .link4, .link5
 {
     text-decoration: none;
-    color:#F2B5D4;
-    text-shadow: -1px 0 #e15199, 0 1px #e15199, 1px 0 #e15199, 0 -1px #e15199;
+    color:#e15199;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
 
 nav{
@@ -62,12 +62,58 @@ li{
 #conteudo{
     display: block;
     width: 90%;
-    height: 80%;
-    margin: auto;
+    height: 70%;
+    margin: 0 auto;
     margin-top: 37px;
     margin-bottom: 23px;
     background-color: #EFF7F6;
-    box-shadow: 0 0 1em #E774AD ;
+    box-shadow: 0 0 1em #E774AD;
+}
+
+h1{
+    display: inline-block;
+    width: 1260px;
+    height: 100px;
+    margin: 5% auto;
+    /* margin-top: 5%;
+    margin-bottom: 5%;*/
+    padding-top: 10px;
+    font-size: 60px;
+    text-align: center;
+    color: #e15199;
+    background-color: #B2F7EF;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
+    font-family: Sweet Hipster;
+    box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius:50% ;
+    border-bottom: 2px solid #ffffff;
+}
+
+p{
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Bellota' , cursive;
+    color:#e15199;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+#sobre{
+    display: inline-block;
+    text-align: center;
+    width: 700px;
+    height: 700px;
+    margin: 0 0 0 280px;
+    padding: 40px 20px 40px 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-color: #B2F7EF;
+    box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
 }
 .ttl-4{
     color: #e15199;
@@ -80,10 +126,10 @@ li{
 }
 
 footer{
-
+    display: block;
+    position: inherit;
     width: 1400px;
     height: 180px;
     background: url("../imagens/Banner.jpg") center no-repeat;
-    position: relative;
     text-align: center;
 }
