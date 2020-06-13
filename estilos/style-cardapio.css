@@ -105,3 +105,16 @@ footer{
 #preco{
     font-size: 30px;
 }
+
+#img-produto-l{
+    width: 100px;
+    height: 100px;
+}
+
+#prod-1{
+    float: left;
+}
+
+#prod-2{
+    float: right;
+}
