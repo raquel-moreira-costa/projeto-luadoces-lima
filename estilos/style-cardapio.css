@@ -39,8 +39,8 @@ header{
 .link1, .link2, .link3, .link4, .link5
 {
     text-decoration: none;
-    color:#F2B5D4;
-    text-shadow: -1px 0 #e15199, 0 1px #e15199, 1px 0 #e15199, 0 -1px #e15199;
+    color:#e15199;
+    text-shadow: -1px 0 #F2B5D4, 0 1px #F2B5D4, 1px 0 #F2B5D4, 0 -1px #F2B5D4;
 }
 
 nav{
@@ -89,6 +89,7 @@ footer{
 }
 
 #titulo{
+    font-size: 100px;
     margin: 70px;
 }
 
