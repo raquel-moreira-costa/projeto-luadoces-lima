@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body{
+background-color: #f2f6ce;
+}
+
 .container{
     width: 1400px;
     height: 1400px;
