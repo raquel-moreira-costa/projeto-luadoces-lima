@@ -73,48 +73,54 @@ li{
 h1{
     display: inline-block;
     width: 1260px;
-    height: 100px;
-    margin: 5% auto;
-    /* margin-top: 5%;
-    margin-bottom: 5%;*/
-    padding-top: 10px;
+    height: 130px;
+    margin: 0 auto;
+    padding-top: 30px;
     font-size: 60px;
     text-align: center;
     color: #e15199;
-    background-color: #B2F7EF;
+    background-color: #58D5EE;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
     font-family: Sweet Hipster;
     box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius:50% ;
-    border-bottom: 2px solid #ffffff;
 }
 
 p{
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
     font-size: 20px;
     text-align: center;
     font-family: 'Bellota' , cursive;
     color:#e15199;
     font-weight: bold;
-    line-height: 40px;
+    line-height: 30px;
+    background-color:#7DDFF2;
+    padding-left: 5%;
+    padding-right: 10px;
+    margin: 20px 40px 10px 30px;
+    box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
+    border-left: 6px solid #F2B5D4;
+    border-right: 6px solid #F2B5D4;
 }
 
+
 #sobre{
-    display: inline-block;
+    display: block;
     text-align: center;
-    width: 700px;
-    height: 700px;
-    margin: 0 0 0 280px;
-    padding: 40px 20px 40px 20px;
-    padding-top: 50px;
-    padding-bottom: 40px;
-    background-color: #B2F7EF;
+    padding-top: 10px;
+    width: 800px;
+    height: 630px;
+    margin: 40px auto 20px auto;
     box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
-    border-top: 2px solid #ffffff;
-    border-bottom: 2px solid #ffffff;
 }
+
+.backg{
+    width: 1260px;
+    height: 130px;
+    margin-top: 50px;
+    background-color:#58D5EE;
+
+}
+
 .ttl-4{
     color: #e15199;
     font-size: 30px;
@@ -123,6 +129,7 @@ p{
     display: inline-block;
     margin: auto;
     width: 250px;
+    padding-top: 20px;
 }
 
 footer{

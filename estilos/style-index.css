@@ -215,9 +215,10 @@ li{
 .link10, .link11{
     text-decoration: none;
     color:#e15199;
-    font-size: 32px;
+    font-size: 18px;
     font-weight: bolder;
     text-align: center;
+    font-family: 'Bellota' , cursive;
     margin: 20px 10px 20px 0px;
     text-align: center ;
     padding:4px 0px 4px 0px;
@@ -226,10 +227,10 @@ li{
 }
 
 .p-mt1, .p-mt2{
-    font-size: 26px;
+    font-size: 16px;
     display: block;
     flex: 1;
-    font-weight: normal;
+    font-weight: bold;
     text-decoration: none;
     color: #e15199;
 }
