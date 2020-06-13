@@ -96,3 +96,12 @@ footer{
 #produtos{
     margin: 70px;
 }
+
+#img-produto{
+    width: 250px;
+    height: 250px;
+}
+
+#preco{
+    font-size: 30px;
+}
