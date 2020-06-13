@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body{
+background-color: #f2f6ce;
+}
+
 .container{
     width: 1400px;
     height: 1400px;
@@ -62,7 +66,7 @@ li{
 #conteudo{
     display: block;
     width: 90%;
-    height: 80%;
+    height: 70%;
     margin: auto;
     margin-top: 37px;
     margin-bottom: 23px;
@@ -80,7 +84,6 @@ li{
 }
 
 footer{
-
     width: 1400px;
     height: 180px;
     background: url("../imagens/Banner.jpg") center no-repeat;
@@ -88,11 +91,74 @@ footer{
     text-align: center;
 }
 
-#titulo{
-    font-size: 100px;
-    margin: 70px;
+p{
+    font-family: 'Baloo 2', cursive;
 }
 
-#produtos{
-    margin: 70px;
+#prod-l1{
+    float: left;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #B2F7EF;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+#prod-l2{
+    float: left;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #B2F7EF;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+#prod-l3{
+    float: left;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #B2F7EF;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+#prod-r1{
+    float: right;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #F2B5D4;
+    width: 600px;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+#prod-r2{
+    float: right;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #F2B5D4;
+    width: 600px;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+#prod-r3{
+    float: right;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #F2B5D4;
+    width: 600px;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+#titulo{
+    font-size: 100px;
+    margin-bottom: 20px;
 }
