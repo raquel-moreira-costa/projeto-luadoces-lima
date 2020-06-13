@@ -60,10 +60,10 @@ li{
 #conteudo{
     display: block;
     width: 90%;
-    height: 80%;
+    height: 70%;
     margin: auto;
-    margin-top: 37px;
-    margin-bottom: 23px;
+    margin-top: 27px;
+    margin-bottom: 13px;
     background-color: #EFF7F6;
     box-shadow: 0 0 1em #E774AD ;
 }
@@ -75,7 +75,7 @@ li{
     color: #EFF7F6;
     background-color:#F2B5D4;
     margin-right:40px;
-    margin-top: 20px;
+    margin-top: 10px;
     text-align: right;
     padding: 2px;
 
@@ -86,8 +86,8 @@ li{
     background-color: #b2f6ef;
     display: inline-block;
     position: relative;
-    top: 87px;
-    left: 10px;
+    top: 79px;
+    left: 55px;
     padding: 4px;
     font-size: 30px;
     color: #e15199;
@@ -97,7 +97,7 @@ li{
 #prop-img{
 
     display: flex;
-    margin: 50px auto 20px auto;
+    margin: 40px auto 10px auto;
     align-content: center;
     width: 1100px;
     box-shadow: 0 0 1em #b2f6ef, 0 0 1em rgb(182, 179, 179);
@@ -110,7 +110,7 @@ li{
     flex: 1;
     margin: 0px 2px 0px 2px;
     width: 300px;
-    height: 350px;
+    height: 300px;
     image-rendering: optimizeQuality;
 }
 
@@ -120,8 +120,8 @@ li{
     background-color: #b2f6ef;
     display: inline-block;
     position: relative;
-    top: 58px;
-    left: 72px;
+    top: 44px;
+    left: 122px;
     padding: 4px;
     font-size: 30px;
     color: #e15199;
@@ -131,8 +131,8 @@ li{
 #prop-card{
 
     display: flex;
-    margin: 20px auto 20px auto;
-    padding-top: 20px;
+    margin: 5px auto 5px auto;
+    /* padding-top: 10px; */
     justify-content: center;
     width: 960px;
     box-shadow: 0 0 1em #b2f6ef, 0 0 1em gainsboro;
@@ -146,14 +146,14 @@ li{
     align-content: center;
     align-items: center;
     width: 210px;
-    height: 220px;   
+    height: 210px;   
 }
 
 .lcard1, .lcard2, .lcard3, .lcard4{
 
     flex-flow: column;
     width: 200px;
-    height: 220px;
+    height: 200px;
     border: 2px solid #b2f6ef;
     border-radius: 50%;
     align-items: center;
@@ -182,8 +182,8 @@ li{
     background-color: #b2f6ef;
     display: inline-block;
     position: relative;
-    top: 56px;
-    left: 10px;
+    top: 47px;
+    left: 56px;
     padding: 4px;
     font-size: 29px;
     color: #e15199;
@@ -192,9 +192,9 @@ li{
 
 #materia{
     display: flex;
-    margin: 20px auto 50px auto;
+    margin: 10px auto 40px auto;
     align-content: space-around;
-    padding-top:40px;
+    padding-top:30px;
     width: 1100px;
     box-shadow: 0 0 1em #b2f6ef, 0 0 1em rgb(182, 179, 179);
     background-color: #B2F7EF;
@@ -215,9 +215,10 @@ li{
 .link10, .link11{
     text-decoration: none;
     color:#e15199;
-    font-size: 32px;
+    font-size: 18px;
     font-weight: bolder;
     text-align: center;
+    font-family: 'Bellota' , cursive;
     margin: 20px 10px 20px 0px;
     text-align: center ;
     padding:4px 0px 4px 0px;
@@ -226,10 +227,10 @@ li{
 }
 
 .p-mt1, .p-mt2{
-    font-size: 26px;
+    font-size: 16px;
     display: block;
     flex: 1;
-    font-weight: normal;
+    font-weight: bold;
     text-decoration: none;
     color: #e15199;
 }
@@ -245,7 +246,7 @@ li{
 }
 
 footer{
-
+    margin-top: 30px;
     width: 100%;
     height: 180px;
     background: url("../imagens/Banner.jpg") center no-repeat;
