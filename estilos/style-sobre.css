@@ -94,7 +94,7 @@ p{
     font-weight: bold;
     line-height: 30px;
     background-color:#7DDFF2;
-    padding-left: 5%;
+    padding-left: 10px;
     padding-right: 10px;
     margin: 20px 40px 10px 30px;
     box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
@@ -109,7 +109,7 @@ p{
     padding-top: 10px;
     width: 800px;
     height: 630px;
-    margin: 40px auto 20px auto;
+    margin: 40px auto 40px auto;
     box-shadow: 0 0 10px #b2f6ef, 0 0 10px rgb(182, 179, 179);
 }
 
