@@ -229,3 +229,17 @@ h1{
     padding-bottom: 10px;
     float: right;
 }
+
+nav{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+li{
+    list-style-type: none;
+    list-style-position: initial;
+    display: inline;
+    padding-left: 35px;
+    padding-right: 35px;
+}
