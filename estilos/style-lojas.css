@@ -101,30 +101,21 @@ P{
 header{
     text-align: center;
 }
-h1{text-align: left;
-    margin-top: 0;
-    margin-left: 430px;
+h1{text-align: center;
     margin-bottom: 50px;
     font-size: 100px;
 
 }
 iframe{
-    margin-bottom: 40px;
+   margin-left: 200px;
 }
 #Lojas{
     font-family: Sweet Hipster;
-    float: left;
-    text-align: center;
-    align-items: center;
-    margin-bottom: 70px;
   
 }
 #Endereços{
-   padding-top: 195px;
-   padding-right: 155px;
-   padding-bottom: 70px;
-    font-family: 'Mali', cursive;
-    text-align: center;
+   font-family: 'Mali', cursive;
+   margin-left: 200px;
     
    
 }
