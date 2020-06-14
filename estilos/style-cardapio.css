@@ -104,6 +104,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
+    height: 120px;
 }
 
 #prod-l2{
@@ -115,6 +116,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
+    height: 120px;
 }
 
 #prod-l3{
@@ -126,6 +128,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
+    height: 120px;
 }
 
 #prod-r1{
@@ -137,6 +140,7 @@ p{
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
+    height: 120px;
     text-align: right;
 }
 
@@ -149,6 +153,7 @@ p{
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
+    height: 120px;
     text-align: right;
 }
 
@@ -161,6 +166,7 @@ p{
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
+    height: 120px;
     text-align: right;
 }
 
@@ -186,7 +192,6 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
     float: left;
-
 }
 
 #img-l3 {
@@ -196,7 +201,6 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
     float: left;
-
 }
 
 #img-r1 {
@@ -215,7 +219,6 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
     float: right;
-
 }
 
 #img-r3 {
