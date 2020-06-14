@@ -124,7 +124,13 @@ h1{
     margin-bottom: 10px;
     background-color: #B2F7EF;
     width: 1000px;
+<<<<<<< HEAD
     height: 150px;
+=======
+    height: 120px;
+    border-left: #F2B5D4, 2px;
+    border-right: #F2B5D4, 2px;
+>>>>>>> 477f33c1f58565e74a565106570e8ae77abcc805
 }
 
 #prod-l2{
@@ -162,6 +168,8 @@ h1{
     width: 1000px;
     height: 150px;
     text-align: right;
+    border-left: #B2F7EF, 2px;
+    border-right: #B2F7EF, 2px;
 }
 
 #prod-r2{
@@ -175,6 +183,8 @@ h1{
     width: 1000px;
     height: 150px;
     text-align: right;
+    border-left: #B2F7EF, 2px;
+    border-right: #B2F7EF, 2px;
 }
 
 #img-l1 {
