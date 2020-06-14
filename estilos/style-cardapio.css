@@ -164,14 +164,14 @@ p{
 }
 
 #img-l1 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-right: 20px;
     float: left;
 }
 
 #img-l2 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-right: 20px;
     float: left;
@@ -179,7 +179,7 @@ p{
 }
 
 #img-l3 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-right: 20px;
     float: left;
@@ -187,15 +187,14 @@ p{
 }
 
 #img-r1 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-left: 20px;
     float: right;
-
 }
 
 #img-r2 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-left: 20px;
     float: right;
@@ -203,7 +202,7 @@ p{
 }
 
 #img-r3 {
-    width: 200px;
+    width: 150px;
     height: 100px;
     padding-left: 20px;
     float: right;
