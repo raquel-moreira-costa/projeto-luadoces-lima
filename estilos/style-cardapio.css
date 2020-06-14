@@ -243,4 +243,7 @@ li{
     display: inline;
     padding-left: 35px;
     padding-right: 35px;
+    text-decoration: none;
+    color:#e15199;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
