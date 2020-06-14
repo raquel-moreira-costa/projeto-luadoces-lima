@@ -102,15 +102,18 @@ footer{
     height: 980px;
 }
 
+.faixa{
+    width: 1260px;
+    height: 65px;
+    margin-bottom: 10px;
+}
+
 #titulo{
     font-size: 60px;
     text-align: center;
     color: #e15199;
     background-color: #B2F7EF;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
-    width: 1260px;
-    height: 65px;
-    margin-bottom: 10px;
 }
 
 p{
