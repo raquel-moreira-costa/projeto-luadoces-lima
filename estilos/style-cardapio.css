@@ -171,9 +171,41 @@ p{
 }
 
 #img-l2{
+    width: 200px;
+    height: 100px;
+    padding-right: 10px;
+    float: left;
 
 }
 
 #img-l3{
-    
+    width: 200px;
+    height: 100px;
+    padding-right: 10px;
+    float: left;
+
+}
+
+#img-r1{
+    width: 200px;
+    height: 100px;
+    padding-right: 10px;
+    float: right;
+
+}
+
+#img-r2{
+    width: 200px;
+    height: 100px;
+    padding-right: 10px;
+    float: right;
+
+}
+
+#img-r3{
+    width: 200px;
+    height: 100px;
+    padding-right: 10px;
+    float: right;
+
 }
