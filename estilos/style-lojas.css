@@ -103,23 +103,34 @@ header{
 }
 h1{text-align: center;
     margin-bottom: 50px;
-    font-size: 100px;
+    font-family: Sweet Hipster;
+  
 
 }
 iframe{
-   margin-left: 200px;
+   /* margin-left: 200px; */
 }
 #Lojas{
+    display: block;
+    width: 630px;
+    height:980px;
+    float: right
+    margin: auto;
     font-family: Sweet Hipster;
   
 }
 #Endereços{
-   font-family: 'Mali', cursive;
-   margin-left: 200px;
+    display: block;
+    width: 630px;
+    height: 980px;
+    float: left;    
+    margin: auto;
+    font-family: 'Mali', cursive;
+
     
    
 }
-h3{ padding-bottom: 200px;
+/* h3{ padding-bottom: 200px;
     font-family: 'Mali', cursive;
-    padding-left: 50px;
-}
+    /* padding-left: 50px; */
+
