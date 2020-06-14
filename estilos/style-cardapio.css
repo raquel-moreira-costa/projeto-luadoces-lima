@@ -163,8 +163,8 @@ p{
     margin-bottom: 20px;
 }
 
-#img-prod-l1{
-    width: auto 0px;
-    height: auto 0px;
+img {
+    width: 70px;
+    height: 50px;
     float: left;
 }
