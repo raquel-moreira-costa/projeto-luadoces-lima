@@ -161,12 +161,15 @@ p{
 #titulo{
     font-size: 100px;
     margin-bottom: 20px;
+    float: center;
 }
 
 #img-l1 {
     width: 150px;
     height: 100px;
     padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
 }
 
@@ -174,6 +177,8 @@ p{
     width: 150px;
     height: 100px;
     padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
 
 }
@@ -182,6 +187,8 @@ p{
     width: 150px;
     height: 100px;
     padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
 
 }
@@ -190,6 +197,8 @@ p{
     width: 150px;
     height: 100px;
     padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: right;
 }
 
@@ -197,6 +206,8 @@ p{
     width: 150px;
     height: 100px;
     padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: right;
 
 }
@@ -205,5 +216,7 @@ p{
     width: 150px;
     height: 100px;
     padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     float: right;
 }
