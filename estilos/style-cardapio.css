@@ -127,6 +127,8 @@ h1{
     background-color: #B2F7EF;
     width: 1000px;
     height: 150px;
+    Border-left: 2px solid #E774AD;
+    border-right: 2px solid #E774AD;
 }
 
 #prod-l2{
@@ -139,6 +141,8 @@ h1{
     background-color: #B2F7EF;
     width: 1000px;
     height: 150px;
+    Border-left: 2px solid #E774AD;
+    border-right: 2px solid #E774AD;
 }
 
 #prod-l3{
@@ -151,6 +155,8 @@ h1{
     background-color: #B2F7EF;
     width: 1000px;
     height: 150px;
+    Border-left: 2px solid #E774AD;
+    border-right: 2px solid #E774AD;
 }
 
 #prod-r1{
@@ -164,8 +170,8 @@ h1{
     width: 1000px;
     height: 150px;
     text-align: right;
-    border-left: #B2F7EF, 2px;
-    border-right: #B2F7EF, 2px;
+    Border-left: 2px solid #B2F7EF;
+    border-right: 2px solid #B2F7EF;
 }
 
 #prod-r2{
@@ -179,8 +185,8 @@ h1{
     width: 1000px;
     height: 150px;
     text-align: right;
-    border-left: #B2F7EF, 2px;
-    border-right: #B2F7EF, 2px;
+    Border-left: 2px solid #B2F7EF;
+    border-right: 2px solid #B2F7EF;
 }
 
 #img-l1 {
