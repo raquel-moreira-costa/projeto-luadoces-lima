@@ -163,9 +163,17 @@ p{
     margin-bottom: 20px;
 }
 
-img{
-    width: 100px;
-    height: 80px;
+#img-l1 {
+    width: 200px;
+    height: 100px;
     padding-right: 10px;
     float: left;
+}
+
+#img-l2{
+
+}
+
+#img-l3{
+    
 }
