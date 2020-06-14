@@ -101,7 +101,7 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
@@ -111,7 +111,7 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
@@ -121,39 +121,39 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
 #prod-r1{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
 
 #prod-r2{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
 
 #prod-r3{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
@@ -207,5 +207,4 @@ p{
     height: 100px;
     padding-right: 10px;
     float: right;
-
 }
