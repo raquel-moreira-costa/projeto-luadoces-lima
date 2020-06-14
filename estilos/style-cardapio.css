@@ -31,6 +31,12 @@ header{
     color:#F2B5D4;
     
 }
+#cart{
+    width: 40px;
+    margin: 10px;
+    float: right;
+}
+
 
 #logo{
     display: block;
