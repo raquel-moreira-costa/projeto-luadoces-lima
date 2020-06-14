@@ -101,7 +101,7 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
@@ -111,7 +111,7 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
@@ -121,39 +121,39 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     background-color: #B2F7EF;
-    width: 800px;
+    width: 1000px;
     margin-bottom: 20px;
 }
 
 #prod-r1{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
 
 #prod-r2{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
 
 #prod-r3{
     float: right;
-    padding: 20px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     background-color: #F2B5D4;
-    width: 800px;
+    width: 1000px;
     text-align: right;
     margin-bottom: 20px;
 }
@@ -164,48 +164,46 @@ p{
 }
 
 #img-l1 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-right: 20px;
     float: left;
 }
 
 #img-l2 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-right: 20px;
     float: left;
 
 }
 
 #img-l3 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-right: 20px;
     float: left;
 
 }
 
 #img-r1 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-left: 20px;
     float: right;
-
 }
 
 #img-r2 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-left: 20px;
     float: right;
 
 }
 
 #img-r3 {
-    width: 200px;
+    width: 150px;
     height: 100px;
-    padding-right: 10px;
+    padding-left: 20px;
     float: right;
-
 }
