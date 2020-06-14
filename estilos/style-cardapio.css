@@ -164,6 +164,6 @@ p{
 }
 
 #img-prod-l1{
-    width: 50px;
-    height: 50%;
+    width: auto 0;
+    height: auto 0;
 }
