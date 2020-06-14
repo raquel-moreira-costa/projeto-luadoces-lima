@@ -84,6 +84,11 @@ li{
     font-size: 30px;
     color: #EFF7F6;
     background-color:#F2B5D4;
+    font-family: Sweet Hipster;
+    box-shadow: 0 0 3px #E774AD;
+    outline-color:#ffffff;;
+    font-size: 40px;
+    border: none;
     margin-right:40px;
     margin-top: 10px;
     text-align: right;

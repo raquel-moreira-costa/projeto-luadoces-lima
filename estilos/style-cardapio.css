@@ -29,7 +29,7 @@ header{
     position: relative;
     background: url("../imagens/Banner.jpg") center no-repeat;
     color:#F2B5D4;
-    
+
 }
 #cart{
     width: 40px;
@@ -57,7 +57,7 @@ nav{
     text-align: center;
     font-size: 40px;
     font-weight: bolder;
-    
+
 }
 
 li{
@@ -94,15 +94,26 @@ footer{
     text-align: center;
 }
 
+#produtos{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    height: 980px;
+}
+
 #titulo{
     font-size: 100px;
-    margin-bottom: 20px;
     text-align: center;
     color: #E774AD;
 }
 
 p{
     font-family: 'Baloo 2', cursive;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    margin-top: 30px;
 }
 
 #prod-l1{
@@ -111,12 +122,9 @@ p{
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
-    margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
-    border-left: #F2B5D4, 2px;
-    border-right: #F2B5D4, 2px;
+    height: 150px;
 }
 
 #prod-l2{
@@ -128,9 +136,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
-    border-left: #F2B5D4, 2px;
-    border-right: #F2B5D4, 2px;
+    height: 150px;
 }
 
 #prod-l3{
@@ -142,21 +148,19 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
-    border-left: #F2B5D4, 2px;
-    border-right: #F2B5D4, 2px;
+    height: 150px;
 }
 
 #prod-r1{
     float: right;
-    padding-right: 20px;
+    padding: 20px;
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
-    height: 120px;
+    height: 150px;
     text-align: right;
     border-left: #B2F7EF, 2px;
     border-right: #B2F7EF, 2px;
@@ -164,60 +168,58 @@ p{
 
 #prod-r2{
     float: right;
-    padding-right: 20px;
+    padding: 20px;
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
-    height: 120px;
+    height: 150px;
     text-align: right;
     border-left: #B2F7EF, 2px;
     border-right: #B2F7EF, 2px;
 }
 
 #img-l1 {
-    width: 110px;
-    height: 80px;
+    width: 160px;
+    height: 120px;
     padding-right: 20px;
-    margin-top: 10px;
     margin-bottom: 10px;
+    padding-bottom: 10px;
     float: left;
 }
 
 #img-l2 {
-    width: 110px;
-    height: 80px;
+    width: 160px;
+    height: 120px;
     padding-right: 20px;
-    margin-top: 10px;
     margin-bottom: 10px;
+    padding-bottom: 10px;
     float: left;
 }
 
 #img-l3 {
-    width: 110px;
-    height: 80px;
+    width: 160px;
+    height: 120px;
     padding-right: 20px;
-    margin-top: 10px;
     margin-bottom: 10px;
+    padding-bottom: 10px;
     float: left;
 }
 
 #img-r1 {
-    width: 110px;
-    height: 90px;
+    width: 160px;
+    height: 120px;
     padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
     float: right;
 }
 
 #img-r2 {
-    width: 110px;
-    height: 80px;
+    width: 160px;
+    height: 120px;
     padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
     float: right;
 }
