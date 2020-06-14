@@ -162,3 +162,9 @@ p{
     font-size: 100px;
     margin-bottom: 20px;
 }
+
+img source{
+    width: 100px;
+    height: 80px;
+    float: left;
+}
