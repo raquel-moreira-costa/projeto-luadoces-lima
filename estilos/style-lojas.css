@@ -105,11 +105,12 @@ h1{text-align: center;
     margin-bottom: 50px;
     font-family: Sweet Hipster;
   
-
 }
 iframe{
-   /* margin-left: 200px; */
+    margin-bottom: 100px;
+    margin-left: 120px;
 }
+
 #Lojas{
     display: block;
     width: 630px;
@@ -117,6 +118,7 @@ iframe{
     float: left;
     margin: 0 auto;
     font-family: Sweet Hipster;
+    
 }
 
 #Endereços{
@@ -128,7 +130,19 @@ iframe{
     font-family: 'Mali', cursive;
 }
    
-/* h3{ padding-bottom: 200px;
-    font-family: 'Mali', cursive;
-    /* padding-left: 50px; */
+h3{
+margin-bottom: 230px;
+}
+.conteudo2{
+    margin-top: 30px;
 
+}
+
+.titulo{
+
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: Sweet Hipster;
+    font-size: 60px;
+}
+    
