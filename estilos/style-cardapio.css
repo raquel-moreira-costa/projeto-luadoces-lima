@@ -166,5 +166,6 @@ p{
 img{
     width: 100px;
     height: 80px;
+    padding-right: 10px;
     float: left;
 }
