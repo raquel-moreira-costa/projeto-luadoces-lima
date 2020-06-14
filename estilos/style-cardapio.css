@@ -235,10 +235,10 @@ h1{
     float: right;
 }
 
-#paginacao{
+.paginacao{
     display: inline-block ;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bolder;
 }
 
@@ -246,6 +246,7 @@ li{
     list-style-type: none;
     list-style-position: initial;
     display: inline-block;
+    text-align: center;
     padding-left: 35px;
     padding-right: 35px;
     text-decoration: none;
