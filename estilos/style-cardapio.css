@@ -231,7 +231,7 @@ h1{
     float: right;
 }
 
-nav{
+.paginacao{
     text-align: center;
     font-size: 20px;
     font-weight: bolder;
