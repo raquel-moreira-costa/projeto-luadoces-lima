@@ -115,6 +115,8 @@ p{
     background-color: #B2F7EF;
     width: 1000px;
     height: 120px;
+    border-left: #F2B5D4, 2px;
+    border-right: #F2B5D4, 2px;
 }
 
 #prod-l2{
@@ -127,6 +129,8 @@ p{
     background-color: #B2F7EF;
     width: 1000px;
     height: 120px;
+    border-left: #F2B5D4, 2px;
+    border-right: #F2B5D4, 2px;
 }
 
 #prod-l3{
@@ -139,6 +143,8 @@ p{
     background-color: #B2F7EF;
     width: 1000px;
     height: 120px;
+    border-left: #F2B5D4, 2px;
+    border-right: #F2B5D4, 2px;
 }
 
 #prod-r1{
@@ -152,6 +158,8 @@ p{
     width: 1000px;
     height: 120px;
     text-align: right;
+    border-left: #B2F7EF, 2px;
+    border-right: #B2F7EF, 2px;
 }
 
 #prod-r2{
@@ -165,6 +173,8 @@ p{
     width: 1000px;
     height: 120px;
     text-align: right;
+    border-left: #B2F7EF, 2px;
+    border-right: #B2F7EF, 2px;
 }
 
 #img-l1 {
