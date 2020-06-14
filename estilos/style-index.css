@@ -239,14 +239,8 @@ li{
     color: #e15199;
 }
 
-.ttl-4{
-    color: #e15199;
-    font-size: 30px;
-    text-align: center;
-    padding-top: 30px;
-    display: inline-block;
-    margin: auto;
-    width: 250px;
+.icone{
+    margin-top: 30px ;
 }
 
 footer{
