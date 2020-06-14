@@ -94,9 +94,15 @@ footer{
     text-align: center;
 }
 
+#produtos{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    height: 980px;
+}
+
 #titulo{
     font-size: 100px;
-    margin-bottom: 20px;
     text-align: center;
     color: #E774AD;
 }
@@ -114,7 +120,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
+    height: 150px;
 }
 
 #prod-l2{
@@ -126,7 +132,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
+    height: 150px;
 }
 
 #prod-l3{
@@ -138,7 +144,7 @@ p{
     margin-top: 10px;
     background-color: #B2F7EF;
     width: 1000px;
-    height: 120px;
+    height: 150px;
 }
 
 #prod-r1{
@@ -150,7 +156,7 @@ p{
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
-    height: 120px;
+    height: 150px;
     text-align: right;
 }
 
@@ -163,7 +169,7 @@ p{
     margin-top: 10px;
     background-color: #F2B5D4;
     width: 1000px;
-    height: 120px;
+    height: 150px;
     text-align: right;
 }
 
