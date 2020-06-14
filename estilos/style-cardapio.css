@@ -107,7 +107,8 @@ footer{
     color: #e15199;
     background-color: #B2F7EF;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
-    height: 70px;
+    height: 65px;
+    margin-bottom: 5px;
 }
 
 p{
