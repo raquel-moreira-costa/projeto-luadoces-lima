@@ -3,7 +3,9 @@
     box-sizing: border-box;
     margin: 0;
 }
-
+body{
+background-color: #f2f6ce;
+}
 .container{
     width: 1400px;
     height: 1400px;
@@ -99,33 +101,25 @@ P{
 header{
     text-align: center;
 }
-h1{text-align: left;
-    margin-top: 0;
-    margin-left: 430px;
+h1{text-align: center;
     margin-bottom: 50px;
-    font-size: 50px;
+    font-size: 100px;
 
 }
 iframe{
-    margin-bottom: 40px;
+   margin-left: 200px;
 }
 #Lojas{
-   
-    float: left;
-    text-align: center;
-    align-items: center;
-    margin-bottom: 200px;
+    font-family: Sweet Hipster;
   
 }
 #Endereços{
-   padding-top: 185px;
-   padding-right: 155px;
-   padding-bottom: 150px;
-    font-family: 'Mali', cursive;
-    text-align: center;
+   font-family: 'Mali', cursive;
+   margin-left: 200px;
     
    
 }
-h3{ padding-bottom: 250px;
+h3{ padding-bottom: 200px;
     font-family: 'Mali', cursive;
+    padding-left: 50px;
 }
