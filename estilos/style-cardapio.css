@@ -240,7 +240,7 @@ h1{
 li{
     list-style-type: none;
     list-style-position: initial;
-    display: inline;
+    display: inline-block;
     padding-left: 35px;
     padding-right: 35px;
     text-decoration: none;
