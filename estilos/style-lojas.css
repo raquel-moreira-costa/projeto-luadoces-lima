@@ -108,8 +108,8 @@ h1{text-align: center;
   
 }
 iframe{
-    margin-bottom: 100px;
-    margin-left: 120px;
+    margin-bottom: 80px;
+    margin-left: 250px;
 }
 
 #Lojas{
@@ -142,8 +142,48 @@ margin-bottom: 230px;
 .titulo{
 
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     font-family: Sweet Hipster;
     font-size: 60px;
+    color: #E774AD;
+}
+.l1{
+  
+    float: right;
+    background-color: #B2F7EF;
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    margin-right: 250px;
+    margin-bottom: 165px;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;    
+
+}
+.l2{
+
+    float: right;
+    background-color:#F2B5D4;
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    margin-right: 250px;
+    margin-bottom: 165px;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+  
+}
+.l3{
+    float: right;
+    background-color: #B2F7EF;
+    width: 300px;
+    height: 120px;
+    padding-bottom: 20px;
+    padding: 20px;
+    margin-right: 250px;
+    margin-bottom: 10px;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+  
 }
     
