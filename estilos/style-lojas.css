@@ -144,8 +144,9 @@ margin-bottom: 230px;
     text-align: center;
     margin-bottom: 70px;
     font-family: Sweet Hipster;
-    font-size: 80px;
-    color: #E774AD;
+    font-size: 80px;color: #e15199;
+    background-color: #B2F7EF;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
 .l1{
   
