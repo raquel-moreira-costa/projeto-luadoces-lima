@@ -108,6 +108,7 @@ footer{
     color: #e15199;
     background-color: #B2F7EF;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
+    width: 1260px;
     height: 65px;
     margin-bottom: 5px;
 }
@@ -235,10 +236,10 @@ h1{
     float: right;
 }
 
-#paginacao{
+.paginacao{
     display: inline-block ;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bolder;
 }
 
@@ -246,6 +247,7 @@ li{
     list-style-type: none;
     list-style-position: initial;
     display: inline-block;
+    text-align: center;
     padding-left: 35px;
     padding-right: 35px;
     text-decoration: none;
