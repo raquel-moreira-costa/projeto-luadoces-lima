@@ -176,7 +176,7 @@ p{
 #titulo{
     font-size: 100px;
     margin-bottom: 20px;
-    float: center;
+    text-align: center;
 }
 
 #img-l1 {
