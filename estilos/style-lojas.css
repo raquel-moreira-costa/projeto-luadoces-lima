@@ -114,11 +114,11 @@ iframe{
     display: block;
     width: 630px;
     height:980px;
-    float: right
-    margin: auto;
+    float: left;
+    margin: 0 auto;
     font-family: Sweet Hipster;
-  
 }
+
 #Endereços{
     display: block;
     width: 630px;
@@ -126,8 +126,7 @@ iframe{
     float: left;    
     margin: auto;
     font-family: 'Mali', cursive;
-
-    
+}
    
 }
 /* h3{ padding-bottom: 200px;
