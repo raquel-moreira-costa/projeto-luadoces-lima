@@ -98,6 +98,7 @@ li{
 
 .ttl-1{
     text-align: center;
+    letter-spacing: 1px;
     background-color: #b2f6ef;
     display: inline-block;
     position: relative;
@@ -132,6 +133,7 @@ li{
 .ttl-2{
 
     text-align: center;
+    letter-spacing: 1px;
     background-color: #b2f6ef;
     display: inline-block;
     position: relative;
@@ -195,6 +197,7 @@ li{
 .ttl-3{
     text-align: center;
     background-color: #b2f6ef;
+    letter-spacing: 1px;
     display: inline-block;
     position: relative;
     top: 47px;
