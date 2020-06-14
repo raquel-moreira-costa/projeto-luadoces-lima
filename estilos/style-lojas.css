@@ -109,7 +109,7 @@ iframe{
 #Lojas{
     display: block;
     width: 630px;
-    height:980px;
+    height:880px;
     float: left;
     margin: 0 auto;
     font-family: Sweet Hipster;
@@ -119,7 +119,7 @@ iframe{
 #Endereços{
     display: block;
     width: 630px;
-    height: 980px;
+    height: 880px;
     float: left;    
     margin: auto;
     font-family: 'Mali', cursive;
