@@ -247,6 +247,7 @@ h2{
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
+    color: #e15199;
 }
 
 li{
@@ -256,6 +257,11 @@ li{
     padding-left: 35px;
     padding-right: 35px;
     text-decoration: none;
+    /* color:#e15199;
+    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff; */
+}
+
+.link1, .link2, .link3, .link4{
     color:#e15199;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
