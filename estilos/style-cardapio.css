@@ -118,10 +118,14 @@ footer{
 
 p{
     font-family: 'Baloo 2', cursive;
-    padding-top: 10px;
 }
 h1{
     letter-spacing: 4px;
+}
+
+h2{
+    font-family: 'Baloo 2', cursive;
+    display: inline-block;
 }
 
 #prod-l1{
