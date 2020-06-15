@@ -254,14 +254,14 @@ li{
     list-style-type: none;
     display: inline-block;
     text-align: center;
+    padding-top: 20px;
     padding-left: 35px;
     padding-right: 35px;
     text-decoration: none;
-    /* color:#e15199;
-    text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff; */
 }
 
-.link1, .link2, .link3, .link4{
+.link6, .link7, .link8, .link9{
     color:#e15199;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
+    text-decoration: none;
 }
