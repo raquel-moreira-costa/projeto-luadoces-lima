@@ -102,15 +102,18 @@ footer{
     height: 980px;
 }
 
+.faixa{
+    width: 1260px;
+    height: 130px;
+    margin-bottom: 10px;
+    background-color: #B2F7EF;
+}
+
 #titulo{
     font-size: 60px;
     text-align: center;
     color: #e15199;
-    background-color: #B2F7EF;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
-    width: 1260px;
-    height: 65px;
-    margin-bottom: 10px;
 }
 
 p{
@@ -118,7 +121,6 @@ p{
     padding-top: 10px;
 }
 h1{
-    margin-top: 10px;
     letter-spacing: 4px;
 }
 

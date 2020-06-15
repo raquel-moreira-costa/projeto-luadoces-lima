@@ -136,18 +136,22 @@ margin-bottom: 230px;
 }
 .conteudo2{
     margin-top: 30px;
-
 }
-
+/* 
 .titulo{
-    text-align: center;
-    margin-bottom: 70px;
+} */
+
+#titulo{
     font-family: Sweet Hipster;
     font-size: 60px;
     color: #e15199;
     background-color: #B2F7EF;
+    text-align: center;
+    width: 1260px;
+    height: 130px;
     text-shadow: 3px 0 #ffffff, 0 3px #ffffff, 3px 0 #ffffff, 0 3px #ffffff;
 }
+
 .l1{
   
     float: right;
