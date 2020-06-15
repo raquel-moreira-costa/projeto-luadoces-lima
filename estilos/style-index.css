@@ -114,7 +114,7 @@ li{
 
     display: flex;
     margin: 40px auto 10px auto;
-    align-content: center;
+    justify-content: space-around;
     width: 1100px;
     box-shadow: 0 0 1em #b2f6ef, 0 0 1em rgb(182, 179, 179);
     background-color: #B2F7EF;
@@ -125,7 +125,7 @@ li{
 
     flex: 1;
     margin: 0px 2px 0px 2px;
-    width: 300px;
+    width: 360px;
     height: 300px;
     image-rendering: optimizeQuality;
 }
@@ -149,7 +149,6 @@ li{
 
     display: flex;
     margin: 5px auto 5px auto;
-    /* padding-top: 10px; */
     justify-content: center;
     width: 960px;
     box-shadow: 0 0 1em #b2f6ef, 0 0 1em gainsboro;
